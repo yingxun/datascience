@@ -17,3 +17,5 @@ Exploring Ebay Car Sales Data project: Analysing the sales of 2nd-hand cars from
 Visualizing Earnings Based On College Majors
 
 Visualizing Gender Gap In College Degrees
+
+Finding Heavy Traffic Indicators on I-94
