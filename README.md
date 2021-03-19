@@ -19,3 +19,7 @@ Visualizing Earnings Based On College Majors
 Visualizing Gender Gap In College Degrees
 
 Finding Heavy Traffic Indicators on I-94 Interstate Highway
+
+**Work in progress:**
+
+Visualizing Exchange Rates Across Presidencies
