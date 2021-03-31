@@ -12,6 +12,8 @@ HackerNews project: Investigating the prime time of posting to receive the most 
 
 Exploring Ebay Car Sales Data project: Analysing the sales of 2nd-hand cars from eBay Kleinanzeigen
 
+Analyze Employee Exit Surveys
+
 **Data Visualization Projects:**
 
 Visualizing Earnings Based On College Majors
