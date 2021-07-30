@@ -25,4 +25,5 @@ Finding Heavy Traffic Indicators on I-94 Interstate Highway
 Visualizing Exchange Rates Across Presidencies
 
 **Work in progress:**
+
 CryptoCurrency Dashboard
