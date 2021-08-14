@@ -28,7 +28,7 @@ Visualizing Exchange Rates Across Presidencies
 
 CryptoCurrency Dashboard 
 
-https://public.tableau.com/shared/7642ZQT65?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CryptocurrencyDashboard_16277555523450/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 **Work in progress:**
 
